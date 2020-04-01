@@ -10,7 +10,7 @@ Body Mass Index calculator. Based on the user’s weight and height it will calc
 
 ## Application Pages
 
-![image alt >](./ReadAssets/IBMHome.png)
-![image alt <](./ReadAssets/IBMResult2.png)
+![image alt >](./ReadAssets/IBMHome.jpg)
+![image alt <](./ReadAssets/IBMResult2.jpg)
 
 > This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
